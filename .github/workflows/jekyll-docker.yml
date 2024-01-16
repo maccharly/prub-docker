@@ -1,4 +1,4 @@
-name: web  CI/CD
+name: prub-docker
 on:
   push:
     branches:
